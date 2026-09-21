@@ -1,0 +1,6 @@
+#This notebook covers the following data analysis task:-
+1. Load a CSV file using Pandas and display basic info.
+2. Handle missing values and duplicates using Pandas.
+3. Group data by category and find total revenue.
+4. Sort data by multiple columns using Python.
+5. Create a correlation matrix for numerical columns.
